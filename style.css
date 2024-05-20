@@ -38,6 +38,8 @@ h4 {
 
 .mainImg {
 	position: relative;
+	width: 300px;
+	height: 400px;
 }
 
 .logo {
