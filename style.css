@@ -8,6 +8,11 @@ body {
 	padding: 0px;
 }
 
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
 ::selection {
 	background: transparent;
 }
@@ -20,11 +25,6 @@ h4 {
 
 .color1{color:#1BBC9B}
 .color2{color:#C0392B}
-
-.a {
-	text-decoration: none;
-	color: inherit;
-}
 
 .card {
 	color: #013243;
