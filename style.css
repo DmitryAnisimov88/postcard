@@ -24,7 +24,7 @@ h4 {
 }
 
 .titulFont {
-	position: relative;
+	position: absolute;
 	font-family: 'Great Vibes' !important;
 	widht: 50%;
 	height: 50%;
