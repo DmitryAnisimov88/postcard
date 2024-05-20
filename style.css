@@ -28,8 +28,8 @@ h4 {
 	font-family: 'Great Vibes' !important;
 	widht: 50%;
 	height: 50%;
-	top: 50%;
-	left: 50%;
+	top: 0;
+	left: 0;
 	background: #ffffff;
 	opacity: 0.5;
 }
