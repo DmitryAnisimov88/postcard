@@ -32,6 +32,7 @@ h4 {
 	left: 0;
 	background: #ffffff;
 	opacity: 0.5;
+	z-index: 4;
 }
 
 .color1{color:#841237}
