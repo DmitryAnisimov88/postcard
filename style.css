@@ -23,6 +23,17 @@ h4 {
 	font-family: 'Great Vibes' !important;
 }
 
+.titulFont {
+	position: relative;
+	font-family: 'Great Vibes' !important;
+	widht: 50%;
+	height: 50%;
+	top: 50%;
+	left: 50%;
+	background: #ffffff;
+	opacity: 0.5;
+}
+
 .color1{color:#841237}
 .color2{color:#841237}
 
