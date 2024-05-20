@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
 body {
-	font-family: 'Indie Flower', cursive !important;
+	font-family: 'Noto Serif' !important;
   background: #FDE3A7;
 	margin: 0px;
 	padding: 0px;
@@ -20,7 +20,7 @@ a {
 h4 {
 	font-size: 18px;
 	line-height: 1px;
-	font-family: 'Amatic SC', cursive !important;
+	font-family: 'Great Vibes' !important;
 }
 
 .color1{color:#1BBC9B}
@@ -137,7 +137,6 @@ h4 {
 .card .details p {
 	font-size: 10px;
 	line-height: 3px;
-	transform: rotate(-10deg);
 	padding: 0 0 0 20px;
 }
 
