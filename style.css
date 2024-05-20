@@ -23,6 +23,18 @@ h4 {
 	font-family: 'Great Vibes' !important;
 }
 
+.titleText {
+	position: absolute;
+	z-index: 10;
+	width: 70%;
+	height: 30%;
+	line-height: 30%;
+	vertical-align: middle;
+	text-align: center;
+	font-family: 'Great Vibes' !important;
+	font-size: 18px;
+}
+
 .titulFont {
 	position: absolute;
 	width: 80%;
