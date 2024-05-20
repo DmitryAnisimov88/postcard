@@ -26,13 +26,13 @@ h4 {
 .titulFont {
 	position: absolute;
 	font-family: 'Great Vibes' !important;
-	widht: 50%;
+	width: 80%;
 	height: 50%;
 	top: 0;
 	left: 0;
 	background: #ffffff;
 	opacity: 0.5;
-	z-index: 4;
+	z-index: 9;
 }
 
 .color1{color:#841237}
